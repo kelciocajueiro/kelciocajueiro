@@ -6,7 +6,7 @@
 )](https://www.linkedin.com/in/kelcio/) [![name](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)]([https://www.linkedin.com/in/kelcio/](https://leetcode.com/kelciocajueiro/))
 
 
-#### Software Engineer | Java & Spring Boot
+#### Software Engineer | Java, Kotlin & Spring Boot
 
 Currently living in British Columbia, Canada :snowflake:
 
